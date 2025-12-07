@@ -111,6 +111,8 @@ Content-Type: application/json
 }
 ```
 
+![Multi-AI-Query Screenshot](MultiAiQueryScreen.png)
+
 ## Roadmap
 - Implement core provider abstraction and add the first provider (e.g., OpenAI)
 - Ship the basic Next.js UI with side-by-side cards and latency display
